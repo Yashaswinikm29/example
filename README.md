@@ -1,1 +1,1 @@
-Good morning we are creating simple calculator
+Good morning 
